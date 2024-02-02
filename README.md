@@ -1,3 +1,3 @@
 # Java-Implementation-of-Matrix-Operation
-1. reduced row echelon form
+1. Row Echelon Form (REF)
 2. will keep updating...
